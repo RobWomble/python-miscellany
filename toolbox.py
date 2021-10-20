@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Function Toolbox
+""" Function Toolbox v1
     by Rob Womble
     A script to store functions that I foresee reusing """
 
